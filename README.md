@@ -33,6 +33,5 @@ The Vishal Store wants to create an annual sales report for 2024. So that, the o
 To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 ---
 
-   git clone https://github.com/singhdeepesh20/VISHAL-ANNUAL-SALES-DATA-ANALYSIS-DASHBOARD-USING EXCEL
-.git
+   git clone https://github.com/singhdeepesh20/VISHAL-ANNUAL-SALES-DATA-ANALYSIS-DASHBOARD-USING EXCEL.git
 
