@@ -2,7 +2,8 @@
 
 ## Project Objective
 The Vishal Store wants to create an annual sales report for 2024. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2025.
-![Vishal Store Annual Sales Analysis 2024](https://raw.githubusercontent.com/singhdeepesh20/your-repository/main/Screenshot%20(42).png)
+
+![Vishal Store Annual Sales Analysis 2024](https://github.com/singhdeepesh20/INTERACTIVE-DATA-ANALYSIS-DASHBOARD/blob/main/Screenshot%20(42).png)
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
