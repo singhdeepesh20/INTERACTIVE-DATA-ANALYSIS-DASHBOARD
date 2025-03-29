@@ -31,8 +31,7 @@ The Vishal Store wants to create an annual sales report for 2024. So that, the o
 
 ## Final Conclusion:
 To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
-git add .
-git commit -m "Added dashboard files"
-git push origin main
 
+---
+https://github.com/singhdeepesh20/INTERACTIVE-DATA-ANALYSIS-DASHBOARD
 
